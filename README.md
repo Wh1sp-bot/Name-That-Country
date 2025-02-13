@@ -1,4 +1,4 @@
-# Гра "Name That Country"
+# Гра "Flag it up!"
 
 ## Опис гри
 "Name That Country" — це захоплююча гра для тестування ваших знань прапорів різних країн. Виберіть режим гри та спробуйте вгадати якомога більше країн за їхніми прапорами.
@@ -20,7 +20,7 @@
 
 ---
 
-# Game "Name That Country"
+# Game "Flag it up!"
 
 ## Game Description
 "Name That Country" is an exciting game to test your knowledge of different countries' flags. Choose a game mode and try to guess as many countries as possible by their flags.
